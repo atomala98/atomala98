@@ -57,10 +57,14 @@ working on an "every sample" level. Have also had some features like AM/FM modul
 
 ## InputSynthName synthesiser
 
+https://github.com/atomala98/InputSynthName
+
 Synthesiser was created for one of my last year's classes. Created in C++ with the JUCE framework, really shows the basis of granular synthesis. Gives the user chance to choose 
 a sample that should be cut to grains and other parameters like grain could size, grain length, and grain volume. Outputs pretty randomized sound, but well, that's what we love in a granular synths.
 
 ## Delay3000
+
+https://github.com/atomala98/Delay3000
 
 A smaller project, created mostly for learning JUCE. While not the best implementation of the delay effect, it's still working fine and can be used in 
 real-life music production.

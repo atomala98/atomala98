@@ -1,4 +1,4 @@
-Hi, I’m Andrzej Tomala
+Hi, my name is Andrzej Tomala
 
 I'm mostly interested in Python development/backend technologies (Django), 
 but I have also some experience with C++ (mostly JUCE framework) and working with microcontrollers (Arduino/ESP32).

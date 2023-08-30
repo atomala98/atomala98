@@ -8,7 +8,7 @@ Here is the list of the most interesting projects I worked on alone.
 
 # Backend projects
 
-## App for audio codec testing
+## Ezoteric languages converter API
 
 https://github.com/atomala98/ezoteric-language-interpreter-API
 

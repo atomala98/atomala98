@@ -10,9 +10,15 @@ Here is the list of the most interesting projects I worked on alone.
 
 ## App for audio codec testing
 
+https://github.com/atomala98/ezoteric-language-interpreter-API
+
+A project that I'm currently working on, as a hobby. Basic API, designed to acquire requests with program data in different ezoteric programming languages (currently handling Brainfuck, Befunge and Whitespace languages), interpret code and return answer. Programs are saved as sessions to database, to handle input instructions without predefining full input. 
+
+## App for audio codec testing
+
 https://github.com/atomala98/sound-test-app
 
-A project that I'm currently working on, as a master thesis. The Django-based app, focused on performing codec quality tests, aggregating data
+My master thesis from Acoustic Engineering. The Django-based app, focused on performing codec quality tests, aggregating data
 about results (examined person age, gender, and answers in several tests), and exporting data in CSV/creating PDF reports. All exams can be planned
 by a scientist, based on ITU P.800, ITU BS.1534-3, and ITU BS.1116-2 standards (e.g. MUSHRA test).
 
@@ -30,13 +36,6 @@ https://github.com/atomala98/todoList
 Basic app created in Flask. Have some additional features like an e-mail with an account activation link and allaining tasks for groups of users.
 
 # Other Python projects
-
-## Brainfuck IDE
-
-https://github.com/atomala98/brainfuck-IDE
-
-Brainfuck programming language interpreter with IDE written in Python (Tkinter). Have some basic features like saving files and
-loading them. Also have a code backlight added.
 
 ## Space invaders
 
